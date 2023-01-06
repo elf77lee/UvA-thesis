@@ -1,0 +1,1 @@
+MCS	Id	Type	Volume	SurfaceArea	X_Location	Y_Location	VEGF165	VEGF121	TotalVEGF	CXCL10	CCL2	Growing	Arrested	Quiescent	Apoptotic	Total Cell Number
