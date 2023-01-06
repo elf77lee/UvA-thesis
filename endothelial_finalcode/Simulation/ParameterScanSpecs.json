@@ -1,0 +1,14 @@
+{
+    "version":"4.2.5",
+    "parameter_list":{
+        "endocount":{            
+            "values":[100, 1000, 5000]
+        },
+        "setLambda":{            
+            "values":[200, 2000, 20000]
+        },
+        "setSaturationCoef":{            
+            "values":["10**-8","10**-9","10**-10"]
+        }
+    }
+}
